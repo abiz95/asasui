@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "-d",
+                "web-server",
+                "--web-port",
+                "8000"
+            ]
+        },
+        {
+            "name": "Flutter (IN2021)",
+            "program": "lib/main.dart",
+            "deviceId": "fd305fa1",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
